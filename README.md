@@ -4,6 +4,8 @@ This project is playing with the AOS animation library, and studying the implica
 Mostly all of the HTML/CSS (except very small modifications) is the Landing Page from [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) and the animation library is [AOS](https://michalsnik.github.io/aos/). 
 
 
+[Github Page to the project](https://hanabeth.github.io/animated-template/)
+
 
 ![Animated Template Demo](media/animated-template-demo.gif)
 
